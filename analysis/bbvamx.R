@@ -1,4 +1,5 @@
 library(rvest)
+
 #Obetener URL de equipo
 url <- "http://www.ligabbva.mx/cancha/estadisticahistorica"
 selector <- "body > section:nth-child(17) > div > div.estadisticas-equipos > div:nth-child(1) > div > table > tbody > tr:nth-child(1) > td:nth-child(2) > a:nth-child(1)"
@@ -16,6 +17,8 @@ pag <- paste0(pag, lista_paginas)
 
 paginas <- paste0("http://www.ligabbva.mx/", pag)
 
+# Obtener informacion de cada jugador
+
 linksJugadores <- function(url){
   
   selector <- "div > div.detalle > a" 
@@ -25,7 +28,6 @@ linksJugadores <- function(url){
   nodo_link <- html_attr(nodo, "href")
   
 }
-#test <- linksJugadores(paginas[1])
 
 
 linksJug <- sapply(paginas, linksJugadores)
@@ -42,12 +44,6 @@ pagina_web <- read_html(url)
 nombre_nodo <- html_node(pagina_web, nombre)
 nombre_texto <- html_text(nombre_nodo)
 
-
-#url_equipo <- "http://www.ligabbva.mx/cancha/club/6/cruz-azul/"
-#pagina_web_equipo <- read_html(url_equipo)
-#equipo <- #tituloMail
-#equipo_nodo <- html_node(pagina_web_equipo, equipo)
-#equipo_texto <- html_text(equipo_nodo)
 
 nacionalidad <- "#infoJugador > div > div.detalle.col-xs-9 > dl:nth-child(3) > dd:nth-child(6)"
 nacionalidad_nodo <- html_node(pagina_web, nacionalidad)
@@ -121,11 +117,6 @@ obtenerJugadores<- function(url){
   nombre_nodo <- html_node(pagina_web, nombre)
   nombre_texto <- html_text(nombre_nodo)
   
-  #url_equipo <- "http://www.ligabbva.mx/cancha/club/6/cruz-azul/"
-  #pagina_web_equipo <- read_html(url_equipo)
-  #equipo <- #tituloMail
-  #equipo_nodo <- html_node(pagina_web_equipo, equipo)
-  #equipo_texto <- html_text(equipo_nodo)
   
   nacionalidad <- "#infoJugador > div > div.detalle.col-xs-9 > dl:nth-child(3) > dd:nth-child(6)"
   nacionalidad_nodo <- html_node(pagina_web, nacionalidad)
@@ -181,15 +172,6 @@ obtenerJugadores<- function(url){
   
 }
 
-#test <- obtenerJugadores(paginas[1])
-#infoJugadores <- sapply(vlinks, obtenerJugadores) 
-#tabinfo <- t(infoJugadores)
-#mis_datos <- as.data.frame(tabinfo)
-#colnames(mis_datos) <- c("Nombre", "Nacionalidad", "Peso", "Altura",
-#                         "Edad", "Minutos jugados", "Partidos jugados",
-#                         "Partidos como titular", "Goles", "Autogoles",
-#                         "Tarjetas amarillas", "Targetas rojas")
-#rownames(mis_datos) <- c(1:511)
 
 
 info2 <- sapply(vlinks, obtenerJugadores)
