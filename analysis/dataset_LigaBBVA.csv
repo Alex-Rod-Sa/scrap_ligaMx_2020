@@ -1,0 +1,483 @@
+"","Nombre","Nacionalidad","Peso","Altura","Edad","Minutos jugados","Partidos jugados","Partidos como titular","Goles","Autogoles","Tarjetas amarillas","Tarjetas rojas"
+"1","Francisco Guillermo Ochoa Magaña","Mexicano","85 kg","1.9","35 Años, 10 Mes(es), 6 Día(s)","1350","15","15",NA,"0",NA,"0"
+"2","Oscar Francisco Jiménez Fabela","Mexicano","77.8 kg","1.82","32 Años, 7 Mes(es), 7 Día(s)","180","2","2",NA,"0",NA,"0"
+"3","Luis Fernando Fuentes Vargas","Mexicano","67 kg","1.72","34 Años, 8 Mes(es), 5 Día(s)","1492","17","17",NA,"0","2","0"
+"4","Jorge Eduardo Sánchez Ramos","Mexicano","71 kg","1.75","23 Años, 5 Mes(es), 9 Día(s)","1436","16","16",NA,"0","4","0"
+"5","Sebastián Enzo Cáceres Ramos","Uruguayo","76.6 kg","1.8","21 Años, 9 Mes(es), 1 Día(s)","1260","14","14",NA,"0","2","0"
+"6","Jesús Alonso Escoboza Lugo","Mexicano","68 kg","1.71","28 Años, 3 Mes(es), 28 Día(s)","79","4",NA,NA,"0",NA,"0"
+"7","Bruno Amilcar Valdez Rojas","Paraguayo","80 kg","1.8","28 Años, 7 Mes(es), 13 Día(s)","270","3","3",NA,"0","1","0"
+"8","Víctor Emanuel Aguilera ","Argentino","80 kg","1.8","31 Años, 11 Mes(es), 8 Día(s)","1151","14","13","3","0",NA,"0"
+"9","Jordan Jesús Silva Díaz","Mexicano","87 kg","1.9","26 Años, 9 Mes(es), 20 Día(s)","217","4","2",NA,"0","1","0"
+"10","Adrián Horst Gilberto Goransch García","Mexicano","68 kg","1.7","22 Años, 3 Mes(es), 25 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"11","Bryan Colula Alarcón","Mexicano","80 kg","1.8","25 Años, 1 Mes(es), 13 Día(s)","94","2","1",NA,"0",NA,"0"
+"12","Pedro Jesús Aquino Sánchez","Peruano","74 kg","1.75","26 Años, 1 Mes(es), 6 Día(s)","959","14","12","3","0","2","0"
+"13","Sergio Ismael Díaz Velázquez","Paraguayo","68 kg","1.7","23 Años, 2 Mes(es), 14 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"14","Leonardo Gabriel Suárez ","Argentino","63 kg","1.63","25 Años, 1 Mes(es), 20 Día(s)","627","14","8",NA,"0",NA,"0"
+"15","Nicolás Benedetti Roa","Colombiano","73 kg","1.77","24 Años, 0 Mes(es), 24 Día(s)","128","4","1",NA,"0",NA,"0"
+"16","Alan Medina Camacho","Mexicano","74 kg","1.8","23 Años, 9 Mes(es)","87","5",NA,NA,"0",NA,"0"
+"17","Francisco Sebastián Córdova Reyes","Mexicano","65.8 kg","1.74","23 Años, 11 Mes(es), 7 Día(s)","876","11","10","2","0","2",NA
+"18","Richard Rafael Sánchez Guerrero","Paraguayo","70 kg","1.7","25 Años, 1 Mes(es), 21 Día(s)","922","13","10","2","0",NA,NA
+"19","Álvaro Fidalgo Fernández","Español","67 kg","1.72","24 Años, 1 Mes(es), 10 Día(s)","758","10","9",NA,"0",NA,"0"
+"20","Antonio de Jesús López Amenábar","Mexicano","66 kg","1.72","24 Años, 1 Mes(es), 9 Día(s)","265","8","3",NA,"0",NA,"0"
+"21","Mauro Alberto Lainez Leyva","Mexicano","75 kg","1.8","25 Años, 10 Día(s)","1218","17","15","1","0","1","0"
+"22","Alfonso Emilio Sánchez Castillo","Mexicano","75 kg","1.83","26 Años, 11 Mes(es), 3 Día(s)","164","3","2",NA,"0","1","0"
+"23","Roger Beyker Martínez Tobinson","Colombiano","86 kg","1.8","26 Años, 10 Mes(es), 26 Día(s)","755","16","8","4","0","1","0"
+"24","Giovani Dos Santos Ramírez","Mexicano","75 kg","1.75","32 Años, 8 Día(s)","277","7","3","1","0",NA,"0"
+"25","Henry Josué Martín Mex","Mexicano","73.3 kg","1.77","28 Años, 6 Mes(es), 1 Día(s)","833","13","9","7","0",NA,"0"
+"26","Federico Sebastián Viñas Barboza","Uruguayo","80 kg","1.8","22 Años, 10 Mes(es), 19 Día(s)","456","15","4","1","0",NA,"0"
+"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Jared Alberto Muñoz Martínez","Mexicano","84.2 kg","1.82","23 Años, 10 Mes(es), 4 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"43","Rodrigo Alexander Ortega Rodríguez","Mexicano","70.6 kg","1.87","21 Años, 10 Mes(es), 7 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"44","Humberto Gabriel Hernández López","Mexicano","89 kg","1.79","35 Años, 9 Mes(es), 30 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"45","Diego García Ibarra","Mexicano","77.6 kg","1.77","20 Años, 9 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"46","Jonathan Alejandro Sánchez Hernández","Mexicano","79.4 kg","1.81","27 Años, 2 Mes(es), 6 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"47","Edson Jair Partida Almaráz","Mexicano","77.1 kg","1.75","23 Años, 5 Mes(es), 6 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"48","Carlos Iván López Domínguez","Mexicano","67.2 kg","1.73","24 Años, 2 Mes(es), 18 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"49","Rolando González Orta","Mexicano","74.6 kg","1.72","28 Años, 3 Mes(es), 24 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"50","Elbis Sousa Nascimento","Brasileño","78 kg","1.76","28 Años, 4 Mes(es), 24 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"51","Francisco Manuel Reyes Maldonado","Mexicano","72 kg","1.82","22 Años, 7 Mes(es), 15 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"52","José Juan García Manríquez","Mexicano","81.2 kg","1.85","25 Años, 2 Mes(es), 24 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"53","Edgar Zatarain Lizárraga","Mexicano","60 kg","1.73","21 Años, 3 Mes(es), 22 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"54","Brayan Enrique Coronado López","Mexicano","70 kg","1.74","22 Años, 7 Mes(es), 17 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"55","Ronaldo Joel González García","Mexicano","57.8 kg","1.64","21 Años, 7 Mes(es), 27 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"56","Pablo Leandro Gómez ","Mexicano","66.8 kg","1.67","23 Años, 10 Mes(es), 3 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"57","Edgar Jahir Alaffita García","Mexicano","59.8 kg","1.6","24 Años, 7 Mes(es), 1 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"58","Jesús Efren García Garduño","Mexicano","68.6 kg","1.7","21 Años, 4 Mes(es), 29 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"59","Omar Ernesto Soto López","Mexicano","75.4 kg","1.82","21 Años, 6 Mes(es), 19 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"60","Jesús Alejandro Venegas Vergara","Mexicano","68 kg","1.77","26 Años, 1 Mes(es), 20 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"61","César Alejandro Ruíz Romero","Mexicano","70.6 kg","1.75","23 Años, 11 Mes(es), 5 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"62","Duilio Guillermo Tejeda Hernández","Mexicano","77.8 kg","1.81","23 Años, 2 Mes(es), 2 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"63","Isaác Daniel Aguilar Acevedo","Mexicano","73.2 kg","1.75","23 Años, 9 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"64","Juan Carlos Quintal Sequera","Mexicano","61 kg","1.75","22 Años, 3 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"65","Marco Diego Rincón Solorio","Mexicano","69 kg","1.72","22 Años, 10 Mes(es), 29 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"66","Jesús Roberto Aguirre Acosta","Mexicano","64.8 kg","1.75","23 Años, 2 Mes(es), 23 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"67","Vladimir Moragrega Soto","Mexicano","86 kg","1.85","22 Años, 9 Mes(es), 24 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"68","Axel Cruz García Barrera","Mexicano","70.1 kg","1.69","21 Años, 2 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"69","Bruno Schmutz Rivas","Venezolano","72 kg","1.79","18 Años, 7 Mes(es), 29 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"70","Ramiro Costa ","Argentino","87 kg","1.9","28 Años, 8 Mes(es), 29 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"71","Jonathan Vega Gastelum","Mexicano","81 kg","1.81","23 Años, 8 Mes(es), 13 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"72","Luis Arcadio García Bañuelos","Mexicano","71 kg","1.78","28 Años, 1 Mes(es), 25 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"73",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","Jonathan Emmanuel Orozco Domínguez","Mexicano","81 kg","1.84","35 Años, 7 Día(s)","1319","15","15",NA,"0","1","0"
+"80","Carlos Alberto Higuera de los Ríos","Mexicano","77 kg","1.82","20 Años, 6 Mes(es), 1 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"81","Benny Díaz Jáuregui","Mexicano","83 kg","1.87","22 Años, 5 Mes(es), 4 Día(s)","211","3","2",NA,"0",NA,"0"
+"82","Brayan Alexis Angulo León","Colombiano","74 kg","1.75","31 Años, 6 Mes(es), 17 Día(s)","1440","17","17",NA,"0","4","0"
+"83","Eduardo Santiago Tercero Méndez","Mexicano","69 kg","1.82","25 Años, 13 Día(s)","675","8","7",NA,"0","2","0"
+"84","Gonzalo Alejandro Jara Reyes","Chileno","77 kg","1.78","35 Años, 8 Mes(es), 21 Día(s)","1115","13","13",NA,"0","4",NA
+"85","Vladimir Eduardo Loroña Aguilar","Mexicano","75 kg","1.8","22 Años, 6 Mes(es), 3 Día(s)","1275","16","15",NA,"0","6","0"
+"86","Jaime Gómez Valencia","Mexicano","67 kg","1.76","27 Años, 10 Mes(es), 2 Día(s)","487","14","2",NA,"0","1","0"
+"87","Víctor Andrés Guzmán Olmedo","Mexicano","75 kg","1.74","19 Años, 2 Mes(es), 12 Día(s)","1077","13","13",NA,NA,"3","0"
+"88","Salvador Manríquez Frías","Mexicano","73 kg","1.86","21 Años, 12 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"89","Esteban Andrés Pavez Suazo","Chileno","73 kg","1.8","31 Años, 18 Día(s)","1304","15","15",NA,"0","4","0"
+"90","Fidel Francisco Martínez Tenorio","Mexicano","75 kg","1.79","31 Años, 3 Mes(es), 4 Día(s)","960","17","12","8","0",NA,"0"
+"91","Junior Nazareno Sornoza Moreira","Ecuatoriano","63 kg","1.72","27 Años, 3 Mes(es), 22 Día(s)","1155","16","14",NA,"0","3","0"
+"92","Christian Hernando Rivera Cuellar","Colombiano","77 kg","1.85","25 Años, 4 Mes(es), 5 Día(s)","1275","17","15",NA,"0","1","0"
+"93","Marcel Alejandro Ruiz Suárez","Mexicano","68 kg","1.8","20 Años, 6 Mes(es), 24 Día(s)","285","10","1",NA,"0","1","0"
+"94","Jordi Cortizo de la Piedra","Mexicano","69 kg","1.72","24 Años, 10 Mes(es), 19 Día(s)","256","10","2",NA,"0","1","0"
+"95","Luis Javier Gamíz Ávila","Mexicano","68 kg","1.72","21 Años, 1 Mes(es), 15 Día(s)","10","3",NA,NA,"0",NA,"0"
+"96","Edgar Iván López Rodríguez","Mexicano","68 kg","1.8","22 Años, 0 Mes(es), 28 Día(s)","269","12","1","2","0",NA,"0"
+"97","David Matias Barbona ","Argentino","69 kg","1.79","26 Años, 2 Mes(es), 28 Día(s)","1111","16","14","1","0","2","0"
+"98","Fabián Andrés Castillo Sánchez","Colombiano","70 kg","1.71","28 Años, 11 Mes(es), 2 Día(s)","670","16","5","2","0","1","0"
+"99","Mauro Manotas Paez","Colombiano","69 kg","1.78","25 Años, 10 Mes(es), 4 Día(s)","1225","17","16","5","0","2","0"
+"100","Gerson Romario Vázquez Ogara","Mexicano","64 kg","1.74","19 Años, 6 Mes(es), 7 Día(s)","46","3",NA,NA,"0",NA,"0"
+"101","Miguel Ángel Sansores Sánchez","Mexicano","74.5 kg","1.78","30 Años, 0 Mes(es), 21 Día(s)","539","15","7","1","0","3",NA
+"102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","José de Jesús Corona Rodríguez","Mexicano","84 kg","1.84","40 Años, 3 Mes(es), 24 Día(s)","1350","15","15",NA,"0","1","0"
+"110","Andrés Guillermo Gudiño Portillo","Mexicano","86 kg","1.83","24 Años, 3 Mes(es), 23 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"111","Sebastián Jurado Roca","Mexicano","83 kg","1.88","23 Años, 7 Mes(es), 21 Día(s)","180","2","2",NA,"0",NA,"0"
+"112","Jaiber Jiménez Ramírez","Mexicano","73 kg","1.73","26 Años, 4 Mes(es), 12 Día(s)","110","2","2",NA,"0","1","0"
+"113","Julio César Domínguez Juárez","Mexicano","70 kg","1.77","33 Años, 6 Mes(es), 11 Día(s)","1440","16","16",NA,NA,"1","0"
+"114","Alexis Francisco Peña López","Mexicano","84 kg","1.86","25 Años, 4 Mes(es), 6 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"115","Luis Francisco Romo Barrón","Mexicano","84 kg","1.82","25 Años, 11 Mes(es), 14 Día(s)","1071","13","12","2","0","1","0"
+"116","José Joaquín Martínez Valadez","Mexicano","70 kg","1.77","34 Años, 2 Mes(es), 28 Día(s)","998","16","10",NA,"0",NA,"0"
+"117","Adrián Alexei Aldrete Rodríguez","Mexicano","75 kg","1.77","32 Años, 11 Mes(es), 5 Día(s)","547","10","7","1","0","2","0"
+"118","Pablo César Aguilar Benítez","Mexicano","78 kg","1.78","34 Años, 1 Mes(es), 17 Día(s)","951","14","9","1","0","6","0"
+"119","Juan Marcelo Escobar Chena","Paraguayo","76 kg","1.77","25 Años, 10 Mes(es), 16 Día(s)","1266","15","15","2","0","4","0"
+"120","Elías Hernán Hernández Jacuinde","Mexicano","70 kg","1.71","33 Años, 0 Mes(es), 20 Día(s)","440","15","4","2","0",NA,"0"
+"121","Josué Misael Domínguez González","Mexicano","66 kg","1.6","21 Años, 6 Mes(es), 23 Día(s)","75","4",NA,NA,"0",NA,"0"
+"122","José Ignacio Rivero Segade","Uruguayo","60 kg","1.66","29 Años, 1 Mes(es), 9 Día(s)","869","13","10",NA,"0","1","0"
+"123","Víctor Yoshimar Yotun Flores","Peruano","68 kg","1.73","31 Años, 1 Mes(es), 12 Día(s)","726","17","9",NA,"0","3","0"
+"124","Alexis Hazael Gutiérrez Torres","Mexicano","74 kg","1.73","21 Años, 2 Mes(es), 24 Día(s)","4","2",NA,NA,"0",NA,"0"
+"125","Rafael Baca Miranda","Mexicano","66 kg","1.73","31 Años, 8 Mes(es), 8 Día(s)","1184","17","15",NA,"0","4","0"
+"126","Roberto Carlos Alvarado Hernández","Mexicano","70 kg","1.76","22 Años, 8 Mes(es), 12 Día(s)","1085","16","12","3","0","2","0"
+"127","Guillermo Matías Fernández ","Argentino","74 kg","1.8","29 Años, 7 Mes(es), 8 Día(s)","898","13","9","2","0","2","0"
+"128","Orbelín Pineda Alvarado","Mexicano","63.3 kg","1.69","25 Años, 1 Mes(es), 26 Día(s)","1122","16","13","2","0",NA,"0"
+"129","Walter Ivan Alexis Montoya ","Argentino","74 kg","1.71","27 Años, 9 Mes(es), 29 Día(s)","208","9","2",NA,"0",NA,"0"
+"130","Bryan Dennys Angulo Tenorio","Ecuatoriano","75 kg","1.83","25 Años, 5 Mes(es), 19 Día(s)","410","11","3","2","0",NA,"0"
+"131","Jonathan Javier Rodríguez Portillo","Uruguayo","79 kg","1.77","27 Años, 10 Mes(es), 13 Día(s)","1250","15","13","9","0","1","0"
+"132","Santiago Tomás Giménez ","Mexicano","69 kg","1.82","20 Años, 1 Mes(es), 1 Día(s)","547","12","8",NA,"0","1","0"
+"133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","Raúl Manolo Gudiño Vega","Mexicano","91.9 kg","1.96","25 Años, 0 Mes(es), 27 Día(s)","990","11","11",NA,"0",NA,"0"
+"142","José Antonio Rodríguez Romero","Mexicano","86 kg","1.86","28 Años, 10 Mes(es), 15 Día(s)","540","6","6",NA,"0",NA,"0"
+"143","Miguel Jiménez Ponce","Mexicano","81 kg","1.82","31 Años, 2 Mes(es), 5 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"144","Manuel Alejandro Mayorga Almaráz","Mexicano","68.7 kg","1.77","23 Años, 11 Mes(es), 21 Día(s)","666","10","8","2","0","1","0"
+"145","Gilberto Sepúlveda López","Mexicano","77.9 kg","1.82","22 Años, 3 Mes(es), 15 Día(s)","1069","14","12",NA,"0",NA,"0"
+"146","Antonio Briseño Vázquez","Mexicano","81.1 kg","1.85","27 Años, 3 Mes(es), 14 Día(s)","917","13","9",NA,NA,"3","0"
+"147","Miguel Ángel Ponce Briseño","Mexicano","83 kg","1.76","32 Años, 1 Mes(es), 7 Día(s)","859","12","10","2","0","1",NA
+"148","Jesús Enrique Sánchez García","Mexicano","67.5 kg","1.68","31 Años, 8 Mes(es), 19 Día(s)","1208","17","15","1","0","3","0"
+"149","Hiram Ricardo Mier Alanís","Mexicano","73.7 kg","1.82","31 Años, 8 Mes(es), 25 Día(s)","759","9","9",NA,"0","3","0"
+"150","Cristian Yonathan Calderón Del Real","Mexicano","66 kg","1.77","23 Años, 11 Mes(es), 26 Día(s)","319","8","2",NA,"0","1","0"
+"151","José Antonio Madueña López","Mexicano","66.7 kg","1.73","30 Años, 11 Mes(es), 21 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"152","Luis Alejandro Olivas Salcedo","Mexicano","93.9 kg","1.84","21 Años, 3 Mes(es), 9 Día(s)","360","4","4",NA,"0","1","0"
+"153","Jesús Antonio Molina Granados","Mexicano","77 kg","1.86","33 Años, 1 Mes(es), 21 Día(s)","1131","16","16","3","0","2","0"
+"154","Isaác Brizuela Muñóz","Mexicano","65.6 kg","1.71","30 Años, 8 Mes(es), 22 Día(s)","1325","16","14","1","0","1","0"
+"155","Carlos Uriel Antuna Romero","Mexicano","61 kg","1.74","23 Años, 8 Mes(es), 29 Día(s)","1273","17","15",NA,"0",NA,"0"
+"156","Jesús Ricardo Angulo Uriarte","Mexicano","62.3 kg","1.72","24 Años, 2 Mes(es), 30 Día(s)","1032","17","12","3","0",NA,"0"
+"157","Fernando Beltrán Cruz","Mexicano","64 kg","1.63","23 Años, 11 Día(s)","383","15","4",NA,"0",NA,"0"
+"158","Alan Eduardo Torres Villanueva","Mexicano","74.1 kg","1.77","21 Años, 3 Mes(es)","926","15","10",NA,"0","3","0"
+"159","Sergio Adrián Flores Reyes","Mexicano","81.6 kg","1.84","26 Años, 3 Mes(es), 7 Día(s)","190","10","1",NA,"0",NA,"0"
+"160","Carlos Ernesto Cisneros Barajas","Mexicano","71.9 kg","1.75","27 Años, 8 Mes(es), 20 Día(s)","24","2",NA,NA,"0",NA,"0"
+"161","César Saúl Huerta Valera","Mexicano","69.7 kg","1.72","20 Años, 5 Mes(es), 16 Día(s)","173","8","1",NA,"0","1","0"
+"162","Ernesto Alexis Vega Rojas","Mexicano","77.3 kg","1.73","23 Años, 5 Mes(es), 24 Día(s)","1266","17","14","2","0",NA,"0"
+"163","José Juan Macías Guzmán","Mexicano","76 kg","1.78","21 Años, 7 Mes(es), 27 Día(s)","1033","15","12","6",NA,NA,"0"
+"164","Ángel Zaldívar Caviedes","Mexicano","78.5 kg","1.78","27 Años, 3 Mes(es), 11 Día(s)","285","12","1","1","0",NA,"0"
+"165","Ronaldo Cisneros Morell","Mexicano","74 kg","1.8","24 Años, 4 Mes(es), 11 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"166","Oribe Peralta Morones","Mexicano","71.7 kg","1.78","37 Años, 4 Mes(es), 7 Día(s)","83","3","1",NA,"0",NA,"0"
+"167",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Guillermo Pozos Guevara","Mexicano","72 kg","1.78","28 Años, 10 Mes(es), 12 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"177","Alfonso Blanco Antúnez","Mexicano","72 kg","1.78","33 Años, 9 Mes(es), 19 Día(s)","360","4","4",NA,"0",NA,"0"
+"178","Rodolfo Cota Robles","Mexicano","85.8 kg","1.83","33 Años, 10 Mes(es), 16 Día(s)","1170","13","13",NA,"0","1","0"
+"179","Gil Giovanni Burón Morales","Mexicano","67 kg","1.68","26 Años, 11 Mes(es), 8 Día(s)","247","5","3",NA,"0","1","0"
+"180","Andrés Felipe Mosquera Guardia","Colombiano","72 kg","1.78","31 Años, 2 Mes(es), 30 Día(s)","954","15","11",NA,NA,NA,"0"
+"181","Fernando Navarro Morán","Mexicano","64.5 kg","1.68","32 Años, 1 Mes(es), 1 Día(s)","685","11","8","1","0","2","0"
+"182","William José Tesillo Gutiérrez","Colombiano","62 kg","1.66","31 Años, 3 Mes(es), 17 Día(s)","1144","13","13",NA,"0","6",NA
+"183","Jaine Stiven Barreiro Solis","Colombiano","80 kg","1.89","26 Años, 11 Mes(es)","1269","16","14","1","0","4","0"
+"184","Osvaldo Rodríguez del Portal","Mexicano","74.5 kg","1.75","24 Años, 8 Mes(es), 9 Día(s)","997","14","11","1","0","1","0"
+"185","José Iván Rodríguez Rebollar","Mexicano","60.9 kg","1.71","24 Años, 11 Mes(es), 2 Día(s)","480","9","5",NA,"0","1","0"
+"186","Luis Arturo Montes Jiménez","Mexicano","67.9 kg","1.66","35 Años, 4 Día(s)","1026","13","11","1","0","3",NA
+"187","Yairo Yesid Moreno Berrio","Colombiano","70 kg","1.77","26 Años, 1 Mes(es), 15 Día(s)","663","11","7",NA,"0","1","0"
+"188","Ángel Israel Mena Delgado","Ecuatoriano","71 kg","1.68","33 Años, 3 Mes(es), 29 Día(s)","1032","15","10","8","0","2","0"
+"189","Jean David Meneses Villarroel","Chileno","65.1 kg","1.63","28 Años, 2 Mes(es), 3 Día(s)","1341","17","14","2","0","1","0"
+"190","Santiago Colombatto ","Argentino","71 kg","1.79","24 Años, 4 Mes(es), 2 Día(s)","679","9","8","1","0","6","0"
+"191","Fernando Rubén González Pineda","Mexicano","73 kg","1.81","27 Años, 3 Mes(es), 23 Día(s)","545","12","7",NA,"0",NA,"0"
+"192","José David Ramírez García","Mexicano","72 kg","1.78","25 Años, 5 Mes(es), 5 Día(s)","1230","17","14",NA,"0","1","0"
+"193","Jesse Zamudio García","Mexicano","72 kg","1.78","22 Años, 2 Mes(es), 11 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"194","Víctor Alejandro Dávila Zavala","Chileno","72 kg","1.73","23 Años, 6 Mes(es), 15 Día(s)","973","15","12","6","0","1","0"
+"195","Joel Nathaniel Campbell Samuels","Costarricense","72 kg","1.78","28 Años, 10 Mes(es), 23 Día(s)","878","15","9","1","0","4","0"
+"196","José de Jesús Godínez Navarro","Mexicano","79 kg","1.83","24 Años, 3 Mes(es), 30 Día(s)","168","8","2",NA,"0",NA,"0"
+"197","Nicolás Sosa Sánchez","Uruguayo","66.03 kg","1.77","25 Años, 1 Mes(es), 13 Día(s)","76","4","1",NA,"0",NA,"0"
+"198","Emmanuel Gigliotti ","Argentino","83 kg","1.83","33 Años, 11 Mes(es), 30 Día(s)","545","11","6","2","0","1","0"
+"199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Oscar Alfredo Ustari ","Argentino","76 kg","1.83","34 Años, 10 Mes(es), 16 Día(s)","1434","16","16",NA,"0",NA,NA
+"208","Carlos Agustín Moreno Luna","Mexicano","88 kg","1.9","23 Años, 3 Mes(es), 21 Día(s)","94","2","1",NA,"0","2","0"
+"209","Matías Ezequiel Catalán ","Argentino","70 kg","1.72","28 Años, 9 Mes(es)","807","14","6",NA,"0",NA,"0"
+"210","Kevin Nahin Álvarez Campos","Mexicano","65.7 kg","1.76","22 Años, 4 Mes(es), 4 Día(s)","1101","16","13","1","0","4","0"
+"211","Miguel Ángel Tapias Dávila","Mexicano","71.7 kg","1.79","24 Años, 4 Mes(es), 10 Día(s)","113","3","1",NA,"0",NA,"0"
+"212","Emmanuel García Vaca","Mexicano","67.3 kg","1.68","31 Años, 4 Mes(es), 22 Día(s)","490","7","7",NA,"0","2","0"
+"213","Miguel Ángel Herrera Equihua","Mexicano","82.2 kg","1.83","32 Años, 1 Mes(es), 16 Día(s)","562","10","5",NA,"0","2","0"
+"214","Gustavo Daniel Cabral ","Argentino","82.4 kg","1.82","35 Años, 7 Mes(es), 5 Día(s)","1501","17","17","1","0","3","0"
+"215","Oscar Fabián Murillo Murillo","Colombiano","83.9 kg","1.84","33 Años, 1 Mes(es), 1 Día(s)","999","13","12",NA,"0","2",NA
+"216","Víctor Alfonso Guzmán Guzmán","Mexicano","79 kg","1.75","26 Años, 3 Mes(es), 16 Día(s)","518","7","6",NA,"0","2","0"
+"217","Francisco Antonio Figueroa Díaz","Mexicano","55.8 kg","1.72","21 Años, 11 Mes(es), 6 Día(s)","449","10","5",NA,"0","1","0"
+"218","Harold Santiago Mosquera Caicedo","Colombiano","78 kg","1.72","26 Años, 3 Mes(es), 12 Día(s)","311","8","2",NA,"0",NA,"0"
+"219","Erick Germain Aguirre Tafolla","Mexicano","66.8 kg","1.71","24 Años, 2 Mes(es), 27 Día(s)","1368","16","16","1","0","2","0"
+"220","Jorge Daniel Hernández Govea","Mexicano","77.4 kg","1.7","31 Años, 11 Mes(es), 9 Día(s)","477","9","5",NA,"0","1","0"
+"221","Víctor Ismael Sosa ","Argentino","70.5 kg","1.77","34 Años, 4 Mes(es), 1 Día(s)","1048","16","11","3","0",NA,"0"
+"222","Luis Gerardo Chávez Magallón","Mexicano","72.5 kg","1.78","25 Años, 4 Mes(es), 4 Día(s)","1086","15","13","1","0",NA,NA
+"223","Edgar Felipe Pardo Castro","Colombiano","82 kg","1.79","30 Años, 9 Mes(es), 2 Día(s)","860","15","12",NA,"0","2","0"
+"224","Romario Andrés Ibarra Mina","Ecuatoriano","77 kg","1.76","26 Años, 7 Mes(es), 25 Día(s)","279","6","3","1","0",NA,"0"
+"225","Efraín Orona Zavala","Mexicano","82.6 kg","1.82","22 Años, 2 Mes(es), 28 Día(s)","29","4",NA,NA,"0",NA,"0"
+"226","Roberto Carlos de la Rosa González","Mexicano","79.8 kg","1.79","21 Años, 4 Mes(es), 15 Día(s)","594","14","5","4","0",NA,"0"
+"227","Roberto Antonio Nurse Anguiano","Mexicano","84.3 kg","1.86","37 Años, 5 Mes(es), 3 Día(s)","401","9","6","1","0","2","0"
+"228","Erick Daniel Sánchez Ocegueda","Mexicano","70.5 kg","1.77","21 Años, 7 Mes(es), 22 Día(s)","1333","17","15","4","0","1","0"
+"229","Mauro Daniel Quiroga ","Argentino","80 kg","1.88","31 Años, 5 Mes(es), 12 Día(s)","675","13","7","2","0","1","0"
+"230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","Hugo Alfonso González Durán","Mexicano","77 kg","1.82","30 Años, 9 Mes(es), 18 Día(s)","1440","16","16",NA,"0",NA,"0"
+"237","Luis Alberto Cárdenas López","Mexicano","84.1 kg","1.83","27 Años, 8 Mes(es), 4 Día(s)","90","1","1",NA,"0",NA,"0"
+"238","Edson Alan Reséndez Sánchez","Mexicano","82.3 kg","1.81","25 Años, 4 Mes(es), 7 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"239","Adrián Mora Barraza","Mexicano","80 kg","1.9","23 Años, 9 Mes(es), 4 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"240","César Jasib Montes Castro","Mexicano","70 kg","1.91","24 Años, 2 Mes(es), 26 Día(s)","1139","14","12",NA,"0","2","0"
+"241","Nicolás Gabriel Sánchez ","Argentino","74 kg","1.82","35 Años, 3 Mes(es), 15 Día(s)","565","7","6",NA,"0",NA,"0"
+"242","Edson Antonio Gutiérrez Moreno","Mexicano","67 kg","1.76","25 Años, 4 Mes(es)","75","2","1",NA,"0",NA,"0"
+"243","Jesús Daniel Gallardo Vasconcelos","Mexicano","73 kg","1.76","26 Años, 9 Mes(es), 4 Día(s)","1350","16","16",NA,"0","3",NA
+"244","Miguel Arturo Layún Prado","Mexicano","71 kg","1.78","32 Años, 10 Mes(es), 24 Día(s)","823","13","8",NA,"0","1","0"
+"245","Sebastián Ignacio Vegas Orellana","Chileno","75 kg","1.8","24 Años, 5 Mes(es), 15 Día(s)","1410","16","16","1","0","4",NA
+"246","Daniel Alexis Parra Durán","Mexicano","72 kg","1.8","21 Años, 9 Mes(es), 30 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"247","John Stefan Medina Ramírez","Colombiano","72 kg","1.8","28 Años, 11 Mes(es), 5 Día(s)","872","10","10",NA,"0",NA,"0"
+"248","Juan Manuel Álvarez Hernández","Mexicano","71 kg","1.78","24 Años, 10 Mes(es), 18 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"249","Claudio Matías Kranevitter ","Argentino","67 kg","1.78","27 Años, 11 Mes(es), 29 Día(s)","989","16","11",NA,"0","4","0"
+"250","Maximiliano Eduardo Meza ","Argentino","80 kg","1.81","28 Años, 5 Mes(es), 4 Día(s)","1262","17","15","4","0","4","0"
+"251","Celso Fabián Ortíz Gamarra","Paraguayo","74.5 kg","1.74","32 Años, 3 Mes(es), 24 Día(s)","662","15","7",NA,"0","2","0"
+"252","Arturo Alfonso González González","Mexicano","79.2 kg","1.75","26 Años, 8 Mes(es), 14 Día(s)","1171","17","15","2","0","1","0"
+"253","Jonathan Alexander González Mendoza","Mexicano","62 kg","1.75","22 Años, 1 Mes(es), 6 Día(s)","146","5","2",NA,"0",NA,"0"
+"254","Carlos Alberto Rodríguez Gómez","Mexicano","66 kg","1.76","24 Años, 4 Mes(es), 16 Día(s)","1208","17","13",NA,"0","1","0"
+"255","Eric David Cantú Guerrero","Mexicano","72.4 kg","1.78","22 Años, 2 Mes(es), 22 Día(s)","60","2","1",NA,"0",NA,"0"
+"256","Rogelio Gabriel Funes Mori ","Argentino","78.8 kg","1.86","30 Años, 2 Mes(es), 14 Día(s)","1242","14","14","9","0","6","0"
+"257","Dorlan Mauricio Pabón Ríos","Colombiano","74.4 kg","1.7","33 Años, 3 Mes(es), 26 Día(s)","476","11","6",NA,"0",NA,"0"
+"258","Vincent Petrus Anna Sebastiaan Janssen ","Neerlandés","79 kg","1.84","26 Años, 11 Mes(es), 4 Día(s)","613","11","7","4","0","4",NA
+"259","Ake Arnaud Loba ","Costamarfileño","72 kg","1.79","23 Años, 1 Mes(es), 18 Día(s)","326","10","3","1","0",NA,"0"
+"260","Avilés Hurtado Herrera","Mexicano","72 kg","1.78","34 Años, 0 Mes(es), 29 Día(s)","502","14","5",NA,"0","3","0"
+"261",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Carlos Acevedo López","Mexicano","74 kg","1.84","25 Años, 1 Mes(es)","1530","17","17",NA,"0","1","0"
+"275","Manuel Gibran Lajud Bojalil","Mexicano","84 kg","1.89","27 Años, 4 Mes(es), 25 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"276","Ismael Govea Solorzano","Mexicano","71 kg","1.78","24 Años, 2 Mes(es), 30 Día(s)","280","5","3",NA,"0",NA,"0"
+"277","Jonathan Alejandro Díaz Rivas","Mexicano","69 kg","1.78","22 Años, 8 Día(s)","254","3","3",NA,"0","1","0"
+"278","Félix Eduardo Torres Caicedo","Ecuatoriano","77 kg","1.87","24 Años, 4 Mes(es), 8 Día(s)","1350","15","15","1","0","4",NA
+"279","Hugo Isaác Rodríguez de la O","Mexicano","80 kg","1.83","30 Años, 11 Mes(es), 11 Día(s)","197","3","2",NA,"0",NA,"0"
+"280","Matheus Doria Macedo","Brasileño","82 kg","1.88","26 Años, 6 Mes(es), 11 Día(s)","1530","17","17","2","0","1","0"
+"281","Areli Betsiel Hernández Huerta","Mexicano","72 kg","1.77","26 Años, 4 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"282","Alan Jhosué Cervantes Martín del Campo","Mexicano","68.6 kg","1.81","23 Años, 4 Mes(es), 2 Día(s)","1417","16","16",NA,"0","1","0"
+"283","Juan Ferney Otero Tovar","Colombiano","74 kg","1.81","25 Años, 11 Mes(es), 24 Día(s)","1468","17","17","3","0","3","0"
+"284","Carlos Emilio Orrantia Treviño","Mexicano","63 kg","1.76","30 Años, 3 Mes(es), 18 Día(s)","598","12","6",NA,"0","1","0"
+"285","Diego Alfonso Valdés Contreras","Chileno","75 kg","1.79","27 Años, 3 Mes(es), 20 Día(s)","325","5","3","1","0",NA,"0"
+"286","Fernando Gorriarán Fontes","Uruguayo","68 kg","1.68","26 Años, 5 Mes(es), 22 Día(s)","1201","14","13","2","0","1","0"
+"287","Adrián Lozano Magallanes","Mexicano","73 kg","1.75","22 Años, 11 Día(s)","96","5",NA,NA,"0",NA,"0"
+"288","David Alfredo Andrade Gómez","Mexicano","64 kg","1.68","27 Años, 10 Mes(es), 10 Día(s)","358","5","4",NA,"0","1","0"
+"289","Brian Avelino Lozano Aparicio","Uruguayo","67 kg","1.67","27 Años, 2 Mes(es), 27 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"290","Ulíses Rivas Gilio","Mexicano","72 kg","1.76","25 Años, 3 Mes(es), 25 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"291","José Andrés Ávila De Santiago","Mexicano","72 kg","1.78","23 Años, 18 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"292","Ronaldo De Jesús Prieto Ramírez","Mexicano","63 kg","1.72","24 Años, 2 Mes(es), 16 Día(s)","1016","12","12",NA,"0","1","0"
+"293","Andrés Felipe Ibargüen García","Colombiano","70 kg","1.75","29 Años, 12 Día(s)","496","12","4",NA,"0","1","0"
+"294","Jesús Antonio Isijara Rodríguez","Mexicano","76 kg","1.8","31 Años, 7 Mes(es), 23 Día(s)","657","11","8",NA,"0","5","0"
+"295","Jesús Alberto Ocejo Zazueta","Mexicano","71 kg","1.8","22 Años, 11 Mes(es), 3 Día(s)","696","15","8","1","0","2","0"
+"296","Eduardo Daniel Aguirre Lara","Mexicano","75 kg","1.76","22 Años, 9 Mes(es), 16 Día(s)","742","17","7","3","0",NA,"0"
+"297","Ignacio Alejandro Jeraldino Jil","Chileno","82 kg","1.82","25 Años, 5 Mes(es), 13 Día(s)","465","15","4",NA,"0",NA,"0"
+"298","Eduar Ayrton Preciado García","Ecuatoriano","72 kg","1.81","26 Años, 10 Mes(es), 2 Día(s)","235","4","4",NA,"0",NA,"0"
+"299",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"305","Nahuel Ignacio Guzmán Palomeque","Argentino","93.5 kg","1.93","35 Años, 3 Mes(es), 9 Día(s)","1530","17","17",NA,"0",NA,"0"
+"306","Miguel René Ortega Rodríguez","Mexicano","74.2 kg","1.93","26 Años, 1 Mes(es), 6 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"307","Juan Pablo Chávez Hernández","Mexicano","80.3 kg","1.83","24 Años, 10 Mes(es), 3 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"308","Carlos Joel Salcedo Hernández","Mexicano","77 kg","1.88","27 Años, 7 Mes(es), 20 Día(s)","1400","16","16","1","0","4",NA
+"309","Hugo Ayala Castro","Mexicano","81 kg","1.83","34 Años, 1 Mes(es), 19 Día(s)","270","3","3",NA,"0",NA,"0"
+"310","Jordan Steeven Sierra Flores","Ecuatoriano","61.9 kg","1.69","24 Años, 0 Mes(es), 26 Día(s)","107","4","1",NA,"0",NA,"0"
+"311","Diego Antonio Reyes Rosales","Mexicano","76.2 kg","1.91","28 Años, 8 Mes(es)","1056","13","12","3","0","1","0"
+"312","Juan José Sánchez Purata","Mexicano","78.3 kg","1.87","23 Años, 4 Mes(es), 10 Día(s)","53","3",NA,NA,"0",NA,"0"
+"313","Francisco Eduardo Venegas Moreno","Mexicano","70 kg","1.78","22 Años, 10 Mes(es), 3 Día(s)","138","4","2",NA,"0",NA,"0"
+"314","Aldo Jafid Cruz Sánchez","Mexicano","67 kg","1.73","23 Años, 7 Mes(es), 25 Día(s)","402","5","5",NA,"0","1","0"
+"315","Francisco Javier Meza Palma","Colombiano","79 kg","1.84","29 Años, 8 Mes(es), 21 Día(s)","475","8","4",NA,"0","2",NA
+"316","Rafael De Souza Pereira","Brasileño","77.8 kg","1.85","31 Años, 11 Mes(es), 1 Día(s)","1239","14","14",NA,"0","1",NA
+"317","Leonardo Cecilio Fernández López","Uruguayo","66 kg","1.66","22 Años, 6 Mes(es), 11 Día(s)","349","8","3",NA,"0",NA,"0"
+"318","Guido Hernán Pizarro Demestri","Mexicano","78 kg","1.85","31 Años, 2 Mes(es), 24 Día(s)","1530","17","17",NA,"0","2","0"
+"319","Javier Ignacio Aquino Carmona","Mexicano","64 kg","1.68","31 Años, 3 Mes(es), 8 Día(s)","1131","14","14",NA,"0",NA,NA
+"320","Raymundo de Jesús Fulgencio Román","Mexicano","65 kg","1.76","21 Años, 3 Mes(es), 7 Día(s)","201","5","2",NA,"0",NA,"0"
+"321","Luis Alfonso Rodríguez Alanís","Mexicano","76 kg","1.77","30 Años, 3 Mes(es), 29 Día(s)","906","11","11",NA,"0","3","0"
+"322","Jesús Alberto Dueñas Manzo","Mexicano","75 kg","1.79","32 Años, 2 Mes(es), 3 Día(s)","1011","13","12",NA,"0","2","0"
+"323","André-pierre Christian Gignac ","Francés","89.5 kg","1.88","35 Años, 5 Mes(es), 14 Día(s)","1260","14","14","3","0","2","0"
+"324","Nicolás Federico López Alonso","Uruguayo","74.4 kg","1.78","27 Años, 7 Mes(es), 18 Día(s)","647","12","7","6","0",NA,"0"
+"325","Luis Enrique Quiñones ","Colombiano","64.8 kg","1.78","29 Años, 10 Mes(es), 23 Día(s)","1337","16","16","1","0","5","0"
+"326","Carlos Gabriel González Espinola","Paraguayo","75 kg","1.83","28 Años, 3 Mes(es), 15 Día(s)","1258","15","14","4","0",NA,"0"
+"327","Julián Andrés Quiñones Quiñones","Colombiano","78.4 kg","1.77","24 Años, 1 Mes(es), 26 Día(s)","274","7","2","1","0","1","0"
+"328",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","Alfredo Saldívar Medina","Mexicano","77 kg","1.83","31 Años, 3 Mes(es), 10 Día(s)","360","4","4",NA,"0",NA,"0"
+"342","Gustavo Guadalupe Gutiérrez Muñoz","Mexicano","70 kg","1.83","24 Años, 6 Mes(es), 18 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"343","Luis Manuel García Palomera","Mexicano","90 kg","1.83","28 Años, 4 Mes(es), 19 Día(s)","1170","13","13",NA,"0",NA,"0"
+"344","Gastón Sauro ","Argentino","75 kg","1.81","31 Años, 2 Mes(es), 27 Día(s)","16","1",NA,NA,"0",NA,"0"
+"345","Raúl López Gómez","Mexicano","75 kg","1.85","28 Años, 2 Mes(es), 27 Día(s)","673","15","7","1","0","1","0"
+"346","Miguel Ángel Barbieri ","Argentino","76 kg","1.84","27 Años, 8 Mes(es), 26 Día(s)","1420","16","16","2","0","5",NA
+"347","Jorge Emmanuel Torres Nilo","Mexicano","76 kg","1.82","33 Años, 4 Mes(es), 3 Día(s)","1492","17","17","1","0","6","0"
+"348","Oscar Haret Ortega  Gatica","Mexicano","77 kg","1.9","21 Años","303","9","3",NA,"0","1","0"
+"349","Diego González Hernández","Mexicano","77 kg","1.83","25 Años, 5 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"350","Rodrigo Salinas Dorantes","Mexicano","74 kg","1.8","33 Años, 10 Día(s)","893","15","11",NA,"0",NA,"0"
+"351","Joao Jimmy Plata Cotera","Ecuatoriano","66 kg","1.57","29 Años, 2 Mes(es), 18 Día(s)","151","8",NA,"1","0",NA,"0"
+"352","Pablo Nicolás López De León","Uruguayo","65 kg","1.69","24 Años, 7 Mes(es), 11 Día(s)","26","2",NA,NA,"0",NA,"0"
+"353","Rubens Oscar Sambueza ","Mexicano","76 kg","1.8","37 Años, 4 Mes(es), 18 Día(s)","1368","16","15","1","0","6","0"
+"354","Antonio Ríos Martínez","Mexicano","70 kg","1.72","32 Años, 6 Mes(es), 26 Día(s)","251","6","3",NA,"0",NA,"0"
+"355","Kevin Castañeda Vargas","Mexicano","73 kg","1.71","21 Años, 6 Mes(es), 22 Día(s)","785","14","10","2","0","1","0"
+"356","Claudio Andrés Baeza Baeza","Chileno","64 kg","1.71","27 Años, 4 Mes(es), 27 Día(s)","1464","17","17",NA,"0","6","0"
+"357","Alan Omar Rodríguez Ortíz","Mexicano","77 kg","1.8","25 Años, 1 Mes(es), 30 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"358","Diego Rigonato Rodrigues","Brasileño","76 kg","1.75","33 Años, 2 Mes(es), 10 Día(s)","1326","16","15","1","0","5",NA
+"359","José Juan Vázquez Gómez","Mexicano","58 kg","1.66","33 Años, 2 Mes(es), 5 Día(s)","1525","17","17",NA,"0","1","0"
+"360","Michael Steveen Estrada Martínez","Ecuatoriano","78 kg","1.84","25 Años, 1 Mes(es), 12 Día(s)","1016","17","14","6","0","1","0"
+"361","Paolo Yrizar Martín del Campo","Mexicano","78 kg","1.85","23 Años, 9 Mes(es), 13 Día(s)","335","8","4",NA,"0","1","0"
+"362","Enrique Luis Triverio ","Argentino","75 kg","1.84","32 Años, 4 Mes(es), 19 Día(s)","576","16","4",NA,"0","3","0"
+"363","Pedro Alexis Canelo ","Argentino","80 kg","1.78","29 Años, 2 Mes(es), 27 Día(s)","1526","17","17","11","0","2","0"
+"364","Christopher Alexander Engelhart Mora","Mexicano","70 kg","1.76","21 Años, 5 Mes(es), 3 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"381","Alfredo Talavera Díaz","Mexicano","80 kg","1.88","38 Años, 8 Mes(es), 1 Día(s)","1440","16","16",NA,"0","1","0"
+"382","Julio José González Vela Alvizu","Mexicano","80.7 kg","1.82","30 Años, 0 Mes(es), 26 Día(s)","90","1","1",NA,"0",NA,"0"
+"383","Alan Mozo Rodríguez","Mexicano","76.1 kg","1.75","24 Años, 1 Mes(es), 14 Día(s)","1038","13","12",NA,"0","2",NA
+"384","Luis Fernando Quintana Vega","Mexicano","70.2 kg","1.8","29 Años, 3 Mes(es), 16 Día(s)","113","2","2",NA,"0",NA,"0"
+"385","Johan Felipe Vásquez Ibarra","Mexicano","73.2 kg","1.85","22 Años, 6 Mes(es), 28 Día(s)","1440","16","16",NA,"0","6","0"
+"386","Jerónimo Rodríguez Guemes","Mexicano","61.1 kg","1.77","22 Años, 1 Mes(es), 26 Día(s)","1099","13","12",NA,"0","2","0"
+"387","Jesús Andrés Rivas Gutiérrez","Mexicano","72.7 kg","1.71","18 Años, 6 Mes(es), 21 Día(s)","201","4","3",NA,"0",NA,"0"
+"388","Nicolás Omar Freire ","Argentino","83.2 kg","1.87","27 Años, 3 Mes(es), 1 Día(s)","1530","17","17",NA,"0","2","0"
+"389","Erik Antonio Lira Méndez","Mexicano","65 kg","1.72","21 Años, 11 Día(s)","1403","17","15",NA,"0","2","0"
+"390","Sebastián Saucedo Mondragón","Mexicano","70.9 kg","1.73","24 Años, 3 Mes(es), 28 Día(s)","301","7","4","1","0",NA,"0"
+"391","Favio Enrique Álvarez ","Argentino","75 kg","1.84","28 Años, 3 Mes(es), 27 Día(s)","911","15","10",NA,"0","4","0"
+"392","Facundo Federico Waller Martiarena","Uruguayo","69 kg","1.74","24 Años, 1 Mes(es), 10 Día(s)","1138","17","14","1","0","4","0"
+"393","Gerardo Moreno Cruz","Mexicano","66 kg","1.77","27 Años, 5 Mes(es), 20 Día(s)","68","2",NA,NA,"0","1","0"
+"394","Carlos Gutiérrez Estefa","Mexicano","72.7 kg","1.77","22 Años, 3 Mes(es), 14 Día(s)","1230","17","15","1","0","2","0"
+"395","Leonel López González","Mexicano","70.5 kg","1.75","26 Años, 11 Mes(es), 26 Día(s)","238","9","3",NA,"0","1","0"
+"396","Juan Pablo Vigon Cham","Mexicano","71.3 kg","1.75","29 Años, 9 Mes(es), 30 Día(s)","1481","17","17","1","0","2","0"
+"397","Amaury García Moreno","Mexicano","74 kg","1.8","19 Años, 5 Mes(es)","104","5","1",NA,"0",NA,"0"
+"398","Gabriel Arturo Torres Tejada","Panameño","78 kg","1.8","32 Años, 6 Mes(es), 19 Día(s)","776","12","10","1","0","2","0"
+"399","Juan Ignacio Dinenno De Cara","Argentino","83.3 kg","1.86","26 Años, 8 Mes(es), 21 Día(s)","1041","13","12","4","0","3","0"
+"400","Juan Manuel Iturbe Arévalos","Paraguayo","72.7 kg","1.69","27 Años, 11 Mes(es), 15 Día(s)","489","13","3",NA,"0","1","0"
+"401","Bryan Mendoza Cruz","Mexicano","72.7 kg","1.7","23 Años, 8 Mes(es), 11 Día(s)","44","4",NA,NA,"0",NA,"0"
+"402",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","Alexis Emmanuel Andrade Linares","Mexicano","78 kg","1.83","22 Años, 4 Mes(es), 20 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"409","José Rodolfo Toledo Ríos","Mexicano","86 kg","1.89","23 Años, 5 Mes(es), 5 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"410","Miguel Ángel Fraga Licona","Mexicano","83 kg","1.85","33 Años, 8 Mes(es), 16 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"411","Martín Adolfo Viera Manzanares","Mexicano","67 kg","1.77","19 Años, 11 Mes(es), 7 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"412","Juan Carlos Iván Pineda Vázquez","Mexicano","78 kg","1.74","28 Años, 9 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"413","Edgar Armando Benítez Delgado","Mexicano","75 kg","1.8","23 Años, 1 Mes(es), 24 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"414","Abraham Isaí Riestra Parra","Mexicano","77.4 kg","1.76","32 Años, 11 Mes(es), 13 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"415","César Alejandro Arriaga González","Mexicano","65 kg","1.79","23 Años, 4 Mes(es), 22 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"416","Aarón Julián Barrera Ríos","Mexicano","72 kg","1.83","21 Años, 8 Mes(es), 30 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"417","Jorge Alberto Cruz Cortéz","Mexicano","80 kg","1.87","22 Años, 9 Mes(es), 11 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"418","Jorge Alfredo Valadéz Callente","Mexicano","76 kg","1.79","25 Años, 2 Mes(es), 26 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"419","Cuauhtémoc Blanco Hernández","Mexicano","77 kg","1.81","21 Años, 3 Mes(es), 1 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"420","Alexis Samuel Jaramillo Cervantes","Mexicano","63 kg","1.74","22 Años, 2 Mes(es), 9 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"421","Matías Leonardo Costas ","Argentino","67 kg","1.68","25 Años, 5 Mes(es), 7 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"422","Vanexcel Steve Padilla Ruíz","Mexicano","68 kg","1.81","20 Años, 11 Mes(es), 15 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"423","Armando Chávez Rivas","Mexicano","65 kg","1.7","20 Años, 11 Mes(es), 23 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"424","Wilber Rentería Cuero","Colombiano","73 kg","1.8","29 Años, 3 Mes(es), 13 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"425","Rodolfo Salinas Ortíz","Mexicano","76 kg","1.76","33 Años, 8 Mes(es), 21 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"426","Francisco Tede Pérez","Mexicano","67 kg","1.69","22 Años, 8 Mes(es)",NA,NA,NA,NA,"0",NA,"0"
+"427","Brayam Eduardo Nazarit Sabogal","Colombiano","67 kg","1.76","29 Años, 4 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"428","Marco Antonio Montelongo Rosas","Mexicano","69 kg","1.73","22 Años, 8 Mes(es), 19 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"429","Víctor Gael Bocanegra Villanueva","Mexicano","50 kg","1.57","18 Años, 10 Mes(es), 17 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"430","Aldahir De Jesús Flores Alejandré","Mexicano","73 kg","1.71","20 Años, 10 Mes(es), 15 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"431","Jesús Fernando García García","Mexicano","74 kg","1.75","24 Años, 2 Mes(es), 3 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"432","Jesús Alberto Alvarado Morín","Mexicano","91 kg","1.89","32 Años, 7 Mes(es), 15 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"433","Maximiliano Sigales Straneo","Uruguayo","81 kg","1.83","27 Años, 7 Mes(es), 19 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"434","Armando Enrique Arce Salinas","Mexicano","84 kg","1.76","24 Años, 3 Mes(es), 23 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"435","José Irán Chapa Ramos","Mexicano","58 kg","1.62","22 Años, 1 Mes(es), 5 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"436","Luis Gerardo Alvizo Silguero","Mexicano","75 kg","1.77","21 Años, 4 Mes(es), 1 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"437","Eder Omar Cruz Jiménez","Mexicano","68 kg","1.71","32 Años, 3 Mes(es), 30 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"438","Dante Manuel Osorio Villanueva","Mexicano","79 kg","1.76","27 Años, 9 Mes(es), 12 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"439","Kevin Jared Loera Ramos","Mexicano","68 kg","1.77","22 Años, 14 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"440","Claudio Zamudio Godínez","Mexicano","75 kg","1.73","23 Años, 1 Mes(es), 20 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"441",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","Sebastián Andrés Fassi Álvarez","Mexicano","78 kg","1.9","28 Años",NA,NA,NA,NA,"0",NA,"0"
+"449","Edgar Adolfo Hernández Téllez","Mexicano","76 kg","1.84","38 Años, 8 Mes(es), 23 Día(s)","585","7","6",NA,"0",NA,"0"
+"450","Luis Ángel Malagón Velázquez","Mexicano","74 kg","1.82","24 Años, 2 Mes(es), 17 Día(s)","945","11","11",NA,"0",NA,"0"
+"451","Idekel Alberto Domínguez Rodríguez","Mexicano","68 kg","1.72","20 Años, 11 Mes(es), 17 Día(s)","1244","15","15",NA,"0","5","0"
+"452","Unai Bilbao Arteta","Español","81.7 kg","1.82","27 Años, 3 Mes(es), 15 Día(s)","1518","17","17",NA,"0","1","0"
+"453","Jair Pereira Rodríguez","Mexicano","77 kg","1.84","34 Años, 10 Mes(es), 12 Día(s)","376","6","5",NA,"0","1","0"
+"454","Carlos Alberto Guzmán Fonseca","Mexicano","72.3 kg","1.76","27 Años","11","1",NA,NA,"0",NA,"0"
+"455","Jorge Luis Aguilar Miranda","Paraguayo","77.8 kg","1.82","28 Años, 3 Mes(es), 15 Día(s)","401","6","4",NA,"0","2","0"
+"456","Jairo Daniel González Fajardo","Mexicano","74.9 kg","1.69","29 Años, 2 Mes(es), 23 Día(s)","692","8","8",NA,"0","1","0"
+"457","Raúl Martín Sandoval Zavala","Mexicano","72 kg","1.73","21 Años, 4 Mes(es), 1 Día(s)","248","8","3",NA,"0","1","0"
+"458","Julio Cesar González Trinidad","Paraguayo","70 kg","1.76","28 Años, 10 Mes(es), 21 Día(s)","1246","14","14",NA,"0","6","0"
+"459","Mario Humberto de Luna Saucedo","Mexicano","77 kg","1.84","33 Años, 4 Mes(es), 14 Día(s)","854","12","9",NA,"0","1","0"
+"460","David Cabrera Pujol","Mexicano","77 kg","1.82","31 Años, 8 Mes(es), 12 Día(s)","1036","14","14",NA,"0","3","0"
+"461","Fernando David Arce Juárez","Mexicano","73 kg","1.75","24 Años, 5 Mes(es), 22 Día(s)","396","9","4",NA,"0","1",NA
+"462","Bryan Andrés Carvallo Utreras","Chileno","62 kg","1.64","24 Años, 8 Mes(es), 4 Día(s)","100","6",NA,NA,"0",NA,"0"
+"463","Kevin Bryan Mercado Mina","Ecuatoriano","76 kg","1.72","26 Años, 3 Mes(es), 22 Día(s)","549","11","5",NA,"0","1","0"
+"464","Alejandro Zendejas Saavedra","Mexicano","63 kg","1.65","23 Años, 3 Mes(es), 12 Día(s)","1516","17","17","2","0","1","0"
+"465","Francisco Javier Acuña Víctor","Mexicano","56.8 kg","1.67","33 Años, 4 Mes(es)","14","1",NA,NA,"0",NA,"0"
+"466","Maximiliano Nahuel Salas ","Argentino","75 kg","1.72","23 Años, 5 Mes(es), 18 Día(s)","851","16","11","2","0","2","0"
+"467","Oscar Manuel Millán Garduño","Mexicano","65 kg","1.68","19 Años, 10 Mes(es), 4 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"468","Juan Antonio Delgado Baeza","Chileno","71 kg","1.76","28 Años, 2 Mes(es), 14 Día(s)","984","13","12","2","0","2","0"
+"469","Martín  Barragán  Negrete","Mexicano","77 kg","1.82","29 Años, 10 Mes(es), 5 Día(s)","1133","17","12","3","0","2","0"
+"470","Diego Abella Calleja","Mexicano","75 kg","1.82","22 Años, 6 Mes(es), 28 Día(s)",NA,NA,NA,NA,"0",NA,"0"
+"471","Ian González Nieto","Español","83 kg","1.9","28 Años, 3 Mes(es), 8 Día(s)","907","16","10","3","0","1",NA
+"472","Rodrigo Sebastian Aguirre Soto","Uruguayo","80 kg","1.82","26 Años, 7 Mes(es), 18 Día(s)","311","6","3",NA,"0",NA,"0"
+"473",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
