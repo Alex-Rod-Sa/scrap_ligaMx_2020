@@ -1,18 +1,18 @@
-mis_datos2 <- as.data.frame(tabinfo2)
+mis_datos <- as.data.frame(tabinfo)
 
 #Eliminar la columna Nombre
-mis_datos2 <- mis_datos2[, -1]
+mis_datos <- mis_datos[, -1]
 #Eliminar la columna Nacionalidad
-mis_datos2 <- mis_datos2[, -1]
+mis_datos <- mis_datos[, -1]
 #Eliminar columna Tarjetas rojas
-mis_datos2 <- mis_datos2[, -10]
+mis_datos <- mis_datos[, -10]
 #Eliminar columna Autogoles
-mis_datos2 <- mis_datos2[, -8]
+mis_datos <- mis_datos[, -8]
 
 
 #Escalar datos, dividir entre las varianzas 
-data <- scale(mis_datos2)
-write.csv(data, "\\Users\\TOSHIBA\\Desktop\\Platzi\\Analisis de datos\\Curso Ciencia de Datos\\data.csv", row.names=TRUE)
+data <- scale(mis_datos)
+write.csv(data, dir "data_for_Kmeans.csv", row.names=TRUE)
 
 
 
