@@ -115,7 +115,7 @@ colnames(mis_datos) <- c("Nombre", "Nacionalidad", "Peso", "Altura",
 rownames(mis_datos) <- c(1:482)
   
 #Export data as csv
-write.csv(mis_datos2, "dataset_LigaBBVA.csv")
+write.csv(mis_datos, "dataset_LigaBBVA.csv")
 
 
 
